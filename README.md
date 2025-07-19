@@ -51,7 +51,7 @@ pytest tests/test_add_to_cart.py
 
 🧠 Author
 Rohith Tommandru
-GitHub Profile(https://github.com/rohithtommandru)
+(https://github.com/rohithtommandru)
 
 
 
